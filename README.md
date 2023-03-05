@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mbrockmandev at gmail.com**
 
-- ⚡ Fun fact **I enjoy getting my butt kicked at Brazilian Jiu-Jitsu.**
+- ⚡ Fun fact **I enjoy getting my butt kicked at Jiu-Jitsu.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
