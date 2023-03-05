@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mike Brockman</h1>
+<h1 align="center">Hi 👋, I'm Michael Brockman</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
 - 🔭 I’m currently working on [Soma App](https://github.com/mbrockmandev/somaApp)
