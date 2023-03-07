@@ -3,12 +3,10 @@
 
 - 🌱 I’m currently learning [JS with Brad Traversy's ModernJS 2.0 Course](https://github.com/mbrockmandev/Flixx-App)
 - 👌 I'm currently also learning [React Front to Back with Brad Traversy's Udemy Course](https://www.udemy.com/course/react-front-to-back-2022/).
-
-- 🔭 I’m currently working on [Soma App](https://github.com/mbrockmandev/somaApp)
-
+- 😶‍🌫️ My classes use Python, JavaScript, and C# to teach software engineering principles.
 - 📫 How to reach me **mbrockmandev at gmail.com**
 
-- ⚡ Fun fact **I enjoy getting my butt kicked at Jiu-Jitsu.**
+- ⚡ Fun fact **I enjoy Brazilian Jiu-Jitsu. 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
