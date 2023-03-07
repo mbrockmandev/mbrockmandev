@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer</h3>
 
 - 🌱 I’m currently learning [JS with Brad Traversy's ModernJS 2.0 Course](https://github.com/mbrockmandev/Flixx-App)
-- 👌 I'm currently also learning [React Front to Back with Brad Traversy's Udemy Course](https://gale.udemy.com/course/react-front-to-back-2022/).
+- 👌 I'm currently also learning [React Front to Back with Brad Traversy's Udemy Course](https://www.udemy.com/course/react-front-to-back-2022/).
 
 - 🔭 I’m currently working on [Soma App](https://github.com/mbrockmandev/somaApp)
 
