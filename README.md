@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Brockman</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
-- 👌 I'm currently also learning [React Front to Back with Brad Traversy's Udemy Course](https://www.udemy.com/course/react-front-to-back-2022/).
 - 📫 How to reach me **mbrockmandev at gmail.com**
 
 - ⚡ Fun fact **I enjoy Brazilian Jiu-Jitsu. 😁**
