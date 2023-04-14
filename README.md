@@ -1,7 +1,8 @@
 <h1 align="center">Michael Brockman</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
-- 📫 **mbrockmandev at gmail.com**
+- 📫 **mbrockmandev@gmail.com**
+- **https://twitter.com/mbdev20**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
