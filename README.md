@@ -1,7 +1,7 @@
 <h1 align="center">Michael Brockman</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
-📫 **mbrockmandev@gmail.com**
+📫 **mbrockmandev@gmail.com**<br/>
 <a href="https://twitter.com/mbdev20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbdev20" height="20" width="20" /></a> **https://twitter.com/mbdev20**
 
 <h3 align="left">Languages and Tools:</h3>
