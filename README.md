@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Brockman</h1>
+<h1 align="center">Michael Brockman</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
 - 📫 How to reach me **mbrockmandev at gmail.com**
