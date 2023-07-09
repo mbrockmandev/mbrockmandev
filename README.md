@@ -1,6 +1,5 @@
 <h1 align="center">Michael Brockman</h1>
 <h3 align="center">Software Engineer</h3>
-<p align="center">Web, iOS</p>
 
 <br/>
 <p align="center"><a href="mailto:mbrockmandev@gmail.com" target="blank"> 📫 mbrockmandev@gmail.com</p></a>
