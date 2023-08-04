@@ -3,7 +3,6 @@
 
 <br/>
 <p align="center"><a href="mailto:mbrockmandev@gmail.com" target="blank"> 📫 mbrockmandev@gmail.com</p></a>
-<p align="center"><a href="https://twitter.com/mbdev20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbdev20" height="20" width="20" /></a> https://twitter.com/mbdev20</p>
 <br/>
 
 <h3 align="center">Languages:</h3>
@@ -13,19 +12,10 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a> 
-<!--   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a>  -->
-<!--   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">  -->
-<!--     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>  -->
-<!--   </a> -->
-<!--   <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-  </a>  -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://www.go.dev" target="_blank" rel="noreferrer"> 
+  <a href="https://www.golang.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> 
   </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
